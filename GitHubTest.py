@@ -1,6 +1,6 @@
-def print_me_something(str1):
+def print_me_something(str2):
 
-    print(str1)
+    print(str2)
     
 new_str = "Kubaa"
 
